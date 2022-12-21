@@ -10,7 +10,6 @@ public class Project {
 		word0(a);
 		System.out.println(word0(a));
 	}
-
 	public static Map<String, String> word0(String[] strings) {
 		Map<String, String> x = new LinkedHashMap<>();
 
@@ -22,10 +21,7 @@ public class Project {
 			} else {
 				x.put(c, str);
 			}
-
 		}
-
 		return x;
-
 	}
-}
+}// modified by majid 12/21/22
