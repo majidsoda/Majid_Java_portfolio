@@ -1,0 +1,13 @@
+package day05;
+
+public class Box {
+	public static void main (String[] args) {
+		String box = "flower";
+		System.out.println(box);
+		
+		box = "books";
+		System.out.println(box);
+		
+	}
+
+}
